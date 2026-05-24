@@ -1,0 +1,52 @@
+Aanya Sharma
+Senior Backend Engineer
+aanya.sharma@example.com | github.com/aanya | linkedin.com/in/aanya
+
+PROFESSIONAL SUMMARY
+Senior backend engineer with 6+ years of experience designing and shipping
+Python-based services for fintech and e-commerce. Comfortable owning
+systems end to end: API design, data modelling, CI/CD, observability, and
+on-call rotations. Strong communicator who has mentored four junior
+engineers and led migrations across two organisations.
+
+TECHNICAL SKILLS
+- Languages: Python (expert), SQL, Bash, some Go
+- Frameworks: Django, Django REST Framework, Flask, FastAPI
+- Data: PostgreSQL, Redis, Elasticsearch, Kafka
+- Cloud: AWS (EC2, S3, Lambda, RDS, CloudWatch), basic GCP
+- DevOps: Docker, GitHub Actions, Terraform (intermediate), Linux
+- Testing: pytest, unit & integration tests, contract testing
+- Practices: REST API design, code review, Agile/Scrum, technical writing
+
+EXPERIENCE
+
+Senior Backend Engineer — Lendpay Technologies (2022 - Present)
+- Re-architected the loan-origination service into 6 bounded contexts,
+  cutting peer-to-peer coupling and unlocking parallel team delivery.
+- Owned the rollout of GitHub Actions CI/CD pipelines, reducing release
+  lead time from 6 days to 2 hours.
+- Designed Postgres schemas and migration tooling powering the credit
+  decisioning engine (handles ~120k applications/day).
+- Mentored two junior engineers; led design reviews for the platform team.
+
+Backend Engineer — Sundara Commerce (2019 - 2022)
+- Built the inventory service in Django + DRF; integrated with three
+  third-party fulfilment APIs.
+- Drove the migration from a monolithic Flask app to containerised
+  Django services running on AWS ECS.
+- Implemented structured logging and metrics; cut median diagnosis time
+  from 40 minutes to under 8.
+
+Software Engineer — Kavya Labs (2018 - 2019)
+- Shipped REST endpoints in FastAPI for a fitness-tracking startup.
+- Wrote the first version of the data ingestion pipeline (S3 + Lambda).
+
+EDUCATION
+B.Tech, Computer Science — IIIT Hyderabad (2014 - 2018)
+
+SELECTED PROJECTS
+- pgwatch: a small Postgres slow-query reporter (Python, asyncpg).
+- django-feature-flags: an OSS package with 700+ stars.
+
+INTERESTS
+Open-source contributions, mentoring, distributed systems, technical writing.

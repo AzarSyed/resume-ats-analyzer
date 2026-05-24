@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+.claude/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated runtime artefacts
+data/analyzer.log
+data/analysis_history.csv
+data/reports/
+
+# Personal / scratch files prefixed with _
+data/_*
+
+# NLTK downloads if cached in repo
+nltk_data/

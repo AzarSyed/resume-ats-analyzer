@@ -1,0 +1,35 @@
+Senior Backend Engineer (Python)
+
+About the role
+We are hiring a Senior Backend Engineer to help us scale our payments
+platform. You will own services from API design through deployment and
+on-call. You will collaborate with product, data, and platform teams to
+deliver reliable, well-instrumented systems.
+
+What you will do
+- Design, build, and operate Python services (Django, FastAPI).
+- Model data in PostgreSQL; introduce Redis where caching makes sense.
+- Containerise services with Docker and ship through CI/CD on GitHub
+  Actions or similar.
+- Operate on AWS (ECS, RDS, S3, CloudWatch); ideally familiar with
+  Kubernetes for the next phase of platform work.
+- Write tests at every level — unit, integration, contract.
+- Participate in code review, design review, and a healthy on-call rotation.
+
+You probably have
+- 5+ years of professional backend experience, including 3+ in Python.
+- Strong fluency with Django or FastAPI, REST API design, and SQL.
+- Production experience with AWS and Docker; bonus for Kubernetes,
+  Terraform, or Kafka.
+- Hands-on with observability tooling (structured logging, metrics,
+  tracing) and CI/CD pipelines.
+- Excellent written communication and a track record of mentoring.
+
+Nice to have
+- Fintech, payments, or regulated-domain experience.
+- Open-source contributions.
+- Familiarity with event-driven architectures and Kafka.
+
+Tech stack
+Python, Django, FastAPI, PostgreSQL, Redis, Kafka, Docker, Kubernetes,
+AWS, GitHub Actions, Terraform, Datadog.
