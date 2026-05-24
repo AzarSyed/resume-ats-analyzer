@@ -6,10 +6,10 @@ improvements. Built with Streamlit, scikit-learn, and NLTK.
 
 ## Live Demo
 
-> Deployment in progress. Once the app is live on Streamlit Community
-> Cloud, the link will appear here:
+[Open Dashboard](https://resume-ats-analyzer-azarsyed.streamlit.app)
 
-[Open Dashboard](#) (coming soon)
+The hosted app ships with a sample resume and job description so the
+first analysis runs with one click — no upload required.
 
 ## Features
 
